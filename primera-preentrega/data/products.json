@@ -1,0 +1,101 @@
+[
+  {
+    "id": "4",
+    "title": "PRUEBA DE PUT - Tracker II FG Men",
+    "description": "The natural alternative to normal hiking boots.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/3/0/309160-02_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 150,
+    "code": "Men",
+    "stock": 12
+  },
+  {
+    "id": "'5'",
+    "title": "Primus Trail II",
+    "description": "Barefoot trail-running sneakers that double as outdoor lifestyle wear.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/3/0/309097-01_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 150,
+    "code": "Men",
+    "stock": 1
+  },
+  {
+    "id": "6",
+    "title": "Novus Womens",
+    "description": "Barefoot trainers that fuse urban style and outdoor sole.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/203250-01_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 130,
+    "code": "Women",
+    "stock": 4
+  },
+  {
+    "id": "7",
+    "title": "Ababa II Womens",
+    "description": "Minimalist slip-ons for barefoot living.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/203010-06_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 90,
+    "code": "Women",
+    "stock": 4
+  },
+  {
+    "id": "8",
+    "title": "Geo Court III Womens",
+    "description": "Barefoot trainers that tread lightly on the earth.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/201056-02_side_copy_1.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 110,
+    "code": "Women",
+    "stock": 4
+  },
+  {
+    "id": "9",
+    "title": "Opanka Sandal Womens",
+    "description": "Barefoot sandals made from premium leather offcuts.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/203225-01_side.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700",
+    "price": 95,
+    "code": "Women",
+    "stock": 4
+  },
+  {
+    "id": "10",
+    "title": "Gobi Chelsea Womens",
+    "description": "Barefoot Chelsea boots for the re-generation.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/2/0/201432-01_side.jpg?quality=100&bg-colvscode-file://vscode-app/Users/federicorossi/Desktop/Coding/Software/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.htmlor=255,255,255&fit=bounds&height=700&width=700",
+    "price": 125,
+    "code": "Women",
+    "stock": 4
+  },
+  {
+    "id": "11",
+    "title": "Toe Spacers",
+    "description": "Reconnect and restore the natural shape of your toes.",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/9/0/900004-01_naboso_spacers_gallery_616x616.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=1418&width=2520",
+    "price": 9,
+    "code": "Accessories",
+    "stock": 34
+  },
+  {
+    "id": "12",
+    "title": "Toe No-Show Running Socks",
+    "description": "Our unique toesock design protects each toe from blisters, hotspots, and moisture.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/8/282130_nvy_front_4.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 19,
+    "code": "Accessories",
+    "stock": 40
+  },
+  {
+    "id": "13",
+    "title": "Toe Long Running Socks",
+    "description": "This sock delivers performance comfort with minimal bulk.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/0/201170_opl_3.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 20,
+    "code": "Accessories",
+    "stock": 42
+  },
+  {
+    "id": "14",
+    "title": "Artist Designed Running Socks - Limited Edition",
+    "description": "Unique designs from talented artists in the outdoor community.",
+    "thumbnail": "https://www.injinji.com/media/catalog/product/2/9/293471_snr_front_2.png?optimize=high&fit=bounds&height=700&width=700&canvas=700:700",
+    "price": 42,
+    "code": "Accessories",
+    "stock": 14
+  }
+]
