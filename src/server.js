@@ -11,7 +11,7 @@ import viewsRoutes from "./routes/viewsRoutes.js"
 import { Server } from "socket.io";
 
 
-const products = JSON.parse(fs.readFileSync("./data/products.json", "utf-8"));
+let products = JSON.parse(fs.readFileSync("./data/products.json", "utf-8"));
 
 const app = express();
 const PORT = 8000;
@@ -50,8 +50,22 @@ io.on("connection", (socket) => {
   })
   
   socket.emit("getProducts", products)
-})
 
+
+socket.on("addProduct", (newProduct) => {
+  const id = products.length > 0 ? products[products.length - 1].id + 1 : 1;
+  newProduct.id = id;
+  products.push(newProduct);
+  fs.writeFileSync("./data/products.json", JSON.stringify(products, null, 2));
+  io.emit("getProducts", products); // Emitir actualización de productos
+});
+
+socket.on("deleteProduct", (id) => {
+  products = products.filter(product => product.id !== id);
+  fs.writeFileSync("./data/products.json", JSON.stringify(products, null, 2));
+  io.emit("getProducts", products); // Emitir actualización de productos
+});
+})
 
 // Rutas para productos y carrito
 
