@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3,
+    "title": "Ra IV Mens",
+    "description": "The Natural, Wild Hide Leather Oxford That Blurs Work And Play",
+    "thumbnail": "https://www.vivobarefoot.com/media/catalog/product/3/0/305102-02_side_1.jpg?quality=100&bg-color=255%2C255%2C255&fit=bounds&height=700&width=700",
+    "price": 180,
+    "code": "Ra-IV",
+    "stock": 9
+  },
+  {
+    "title": "Primus Trail II",
+    "description": "Barefoot trail-running sneakers that double as outdoor lifestyle wear",
+    "price": "170",
+    "code": "Primus-II",
+    "stock": "5",
+    "id": 5
+  },
+  {
+    "title": "Novus Womens",
+    "description": "Barefoot trainers that fuse urban style and outdoor sole.",
+    "price": "130",
+    "code": "Novus-W",
+    "stock": "6",
+    "id": 6
+  }
+]
