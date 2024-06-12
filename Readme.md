@@ -33,10 +33,10 @@ Luego de iniciar el servidor `(npm run dev)`, abre tu navegador y navega a [http
 - GET /api/carts/:cid - Obtiene un carrito por su ID.
 - POST /api/carts/:cid/product/:pid - Agrega un producto al carrito.
 
-###Views
+### Views
 - GET / - Página principal de la tienda.
 - GET /products - Página que muestra la lista de productos utilizando Handlebars.
 - GET /realTimeProducts - Página que muestra la lista de productos en tiempo real utilizando WebSockets. Incluye un formulario para añadir productos nuevos, y botones para eliminar productos ya existenes.
 
 
-:fa-github-square: Creado por Federico Rossi
+💻 Creado por Federico Rossi
